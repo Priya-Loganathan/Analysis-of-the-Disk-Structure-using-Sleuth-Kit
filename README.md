@@ -71,9 +71,13 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
 <img width="1086" height="512" alt="image" src="https://github.com/user-attachments/assets/8d9587d7-0a82-44bd-bf6f-cc5b219a4ba7" />
+
 <img width="543" height="252" alt="image" src="https://github.com/user-attachments/assets/b3a01e0d-b99c-4b06-9f2f-d764a62a2bac" />
+
 <img width="1027" height="645" alt="image" src="https://github.com/user-attachments/assets/e8d5fd92-39d5-4251-8d35-46035c9dc092" />
+
 <img width="579" height="244" alt="image" src="https://github.com/user-attachments/assets/97193041-0c99-4d94-9cb1-2825e1e44f74" />
+
 <img width="510" height="383" alt="image" src="https://github.com/user-attachments/assets/67662cea-65e5-47d0-a64d-cdd59c56acbc" />
 
 ## RESULT:
