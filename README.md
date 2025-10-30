@@ -47,7 +47,8 @@ fls -f fat -o 0 disk.dd
 ```
 <img width="406" height="103" alt="image" src="https://github.com/user-attachments/assets/ead557d9-c61b-48a2-89c4-54398496750c" />
 
-<img width="563" height="422" alt="image" src="https://github.com/user-attachments/assets/5e227a8d-e00e-42c2-ab52-d149f60e5ec7" />
+<img width="568" height="426" alt="image" src="https://github.com/user-attachments/assets/78778635-f6c7-4517-8a8a-9bb33f987a91" />
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
